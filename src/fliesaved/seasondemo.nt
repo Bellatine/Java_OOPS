@@ -1,0 +1,44 @@
+_:Bebff60635a9478a7ce86e5edf1714e10 <http://www.w3.org/2005/sparql-results#value> "Winter is the coldest season of the year in polar and temperate zones. It occurs between autumn and spring. The tilt of Earth's axis causes seasons; winter occurs when a hemisphere is oriented away from the Sun. Different cultures define different dates as the start of winter, and some use a definition based on weather."@en .
+_:Bebff60635a9478a7ce86e5edf1714e10 <http://www.w3.org/2005/sparql-results#variable> "abstract" .
+_:B6f419715481d133bd6d600b3dff4bc13 <http://www.w3.org/2005/sparql-results#binding> _:B433e54eaf85f967f25d4bf026039e6dc .
+_:B6f419715481d133bd6d600b3dff4bc13 <http://www.w3.org/2005/sparql-results#binding> _:B98e1c0ec3f8fcd372d91c9694e974e3b .
+_:B6f419715481d133bd6d600b3dff4bc13 <http://www.w3.org/2005/sparql-results#binding> _:B221295226bd568a93418e9bf80aefe42 .
+_:B433e54eaf85f967f25d4bf026039e6dc <http://www.w3.org/2005/sparql-results#value> <http://commons.wikimedia.org/wiki/Special:FilePath/Field_Hamois_Belgium_Luc_Viatour.jpg?width=300> .
+_:B433e54eaf85f967f25d4bf026039e6dc <http://www.w3.org/2005/sparql-results#variable> "thumb" .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#solution> _:B42ea7367ebf53de3e641e949eeec3edf .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#solution> _:Bc93d5d26e400aa291718183140b79a3b .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#solution> _:B192a74d1cb6b77441dafd9973b594538 .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#solution> _:B6f419715481d133bd6d600b3dff4bc13 .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#resultVariable> "thumb" .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#resultVariable> "abstract" .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/2005/sparql-results#resultVariable> "p" .
+_:B036afb4a9d47f6f64c5234931baef72b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2005/sparql-results#ResultSet> .
+_:B98e1c0ec3f8fcd372d91c9694e974e3b <http://www.w3.org/2005/sparql-results#value> "Summer is the hottest of the four temperate seasons, occurring after spring and before autumn. At or centred on the summer solstice, the earliest sunrise and latest sunset occurs, daylight hours are longest and dark hours are shortest, with day length decreasing as the season progresses after the solstice. The date of the beginning of summer varies according to climate, tradition, and culture. When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere, and vice versa."@en .
+_:B98e1c0ec3f8fcd372d91c9694e974e3b <http://www.w3.org/2005/sparql-results#variable> "abstract" .
+_:B6f182541bc28af1fa5e92791eeceb98f <http://www.w3.org/2005/sparql-results#value> "Autumn, also known as fall in North American English, is one of the four temperate seasons. Outside the tropics, autumn marks the transition from summer to winter, in September (Northern Hemisphere) or March (Southern Hemisphere). Autumn is the season when the duration of daylight becomes noticeably shorter and the temperature cools considerably. Day length decreases and night length increases as the season progresses until the Winter Solstice in December (Northern Hemisphere) and June (Southern Hemisphere). One of its main features in temperate climates is the striking change in colour for the leaves of deciduous trees as they prepare to shed."@en .
+_:B6f182541bc28af1fa5e92791eeceb98f <http://www.w3.org/2005/sparql-results#variable> "abstract" .
+_:B2c255fa3e3aecd9bf194d30b4883c3b7 <http://www.w3.org/2005/sparql-results#value> <http://commons.wikimedia.org/wiki/Special:FilePath/Flickr_-_Nicholas_T_-_Leaf_Litter.jpg?width=300> .
+_:B2c255fa3e3aecd9bf194d30b4883c3b7 <http://www.w3.org/2005/sparql-results#variable> "thumb" .
+_:Ba7755c9a2df5ec544381fd88fa451d4a <http://www.w3.org/2005/sparql-results#value> <http://dbpedia.org/resource/Spring_(season)> .
+_:Ba7755c9a2df5ec544381fd88fa451d4a <http://www.w3.org/2005/sparql-results#variable> "p" .
+_:Bc93d5d26e400aa291718183140b79a3b <http://www.w3.org/2005/sparql-results#binding> _:B2c255fa3e3aecd9bf194d30b4883c3b7 .
+_:Bc93d5d26e400aa291718183140b79a3b <http://www.w3.org/2005/sparql-results#binding> _:B6f182541bc28af1fa5e92791eeceb98f .
+_:Bc93d5d26e400aa291718183140b79a3b <http://www.w3.org/2005/sparql-results#binding> _:B3cccaf10e74adab0d3075acf28c45795 .
+_:B192a74d1cb6b77441dafd9973b594538 <http://www.w3.org/2005/sparql-results#binding> _:B88e61c89c2a7706652100ce2637f0f59 .
+_:B192a74d1cb6b77441dafd9973b594538 <http://www.w3.org/2005/sparql-results#binding> _:B9b272173e39934e9b8ff15fd10bd68b3 .
+_:B192a74d1cb6b77441dafd9973b594538 <http://www.w3.org/2005/sparql-results#binding> _:Ba7755c9a2df5ec544381fd88fa451d4a .
+_:B6b43d0ec3035d0402502d35708296ed7 <http://www.w3.org/2005/sparql-results#value> <http://dbpedia.org/resource/Winter> .
+_:B6b43d0ec3035d0402502d35708296ed7 <http://www.w3.org/2005/sparql-results#variable> "p" .
+_:B3cccaf10e74adab0d3075acf28c45795 <http://www.w3.org/2005/sparql-results#value> <http://dbpedia.org/resource/Autumn> .
+_:B3cccaf10e74adab0d3075acf28c45795 <http://www.w3.org/2005/sparql-results#variable> "p" .
+_:B9b272173e39934e9b8ff15fd10bd68b3 <http://www.w3.org/2005/sparql-results#value> "Spring, also known as springtime, is one of the four temperate seasons, succeeding winter and preceding summer. There are various technical definitions of spring, but local usage of the term varies according to local climate, cultures and customs. When it is spring in the Northern Hemisphere, it is autumn in the Southern Hemisphere and vice versa. At the spring (or vernal) equinox, days and nights are approximately twelve hours long, with daytime length increasing and nighttime length decreasing as the season progresses."@en .
+_:B9b272173e39934e9b8ff15fd10bd68b3 <http://www.w3.org/2005/sparql-results#variable> "abstract" .
+_:B221295226bd568a93418e9bf80aefe42 <http://www.w3.org/2005/sparql-results#value> <http://dbpedia.org/resource/Summer> .
+_:B221295226bd568a93418e9bf80aefe42 <http://www.w3.org/2005/sparql-results#variable> "p" .
+_:B42ea7367ebf53de3e641e949eeec3edf <http://www.w3.org/2005/sparql-results#binding> _:B6e40e8571ce0e12003ac0a4d96e9805c .
+_:B42ea7367ebf53de3e641e949eeec3edf <http://www.w3.org/2005/sparql-results#binding> _:Bebff60635a9478a7ce86e5edf1714e10 .
+_:B42ea7367ebf53de3e641e949eeec3edf <http://www.w3.org/2005/sparql-results#binding> _:B6b43d0ec3035d0402502d35708296ed7 .
+_:B88e61c89c2a7706652100ce2637f0f59 <http://www.w3.org/2005/sparql-results#value> <http://commons.wikimedia.org/wiki/Special:FilePath/Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg?width=300> .
+_:B88e61c89c2a7706652100ce2637f0f59 <http://www.w3.org/2005/sparql-results#variable> "thumb" .
+_:B6e40e8571ce0e12003ac0a4d96e9805c <http://www.w3.org/2005/sparql-results#value> <http://commons.wikimedia.org/wiki/Special:FilePath/Winter_forest_silver.jpg?width=300> .
+_:B6e40e8571ce0e12003ac0a4d96e9805c <http://www.w3.org/2005/sparql-results#variable> "thumb" .

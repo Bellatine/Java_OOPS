@@ -1,0 +1,337 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "abstract" , "thumb" , "p" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Benhairiver1.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hiền Lương Bridge (Vietnamese: Cầu Hiền Lương) is a bridge over Bến Hải River, Vĩnh Linh District, Quảng Trị Province, North Central Coast, Việt Nam. This bridge is located in 17th Parallel and in Vietnam War, it was bisected between South Vietnam and North Vietnam from 1954 to 1976. American bombs destroyed the first Hien Luong Bridge in 1967 and again destroyed it in 1970. At the time, it was painted half red and half yellow as a symbol of the ideological and physical division between North and South Vietnam. In 1973, an iron girder bridge was built and reopened following reunification in 1975. The current bridge was built in 1999."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hiền_Lương_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Cửa_Đại,_Quảng_Nam.jpeg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cua Dai Bridge (Vietnamese: Cầu Cửa Đại), is a cable-stayed bridge that crosses the Thu Bồn River in Quang Nam Province, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cua_Dai_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Inverted_V_Arches_(18373617190).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Nhật Tân Bridge (or Vietnam–Japan Friendship Bridge) is a cable-stayed bridge crossing the Red River in Hanoi, inaugurated on January 4, 2015. It forms part of a new six-lane highway linking Hanoi and Noi Bai International Airport. The project is funded by a Japan International Cooperation Agency ODA loan."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Nhật_Tân_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hue,_le_pont_Trang_Tien.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Trường Tiền Bridge (Vietnamese: Cầu Trường Tiền) is a bridge crossing the Perfume River in Huế, Vietnam"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Truong_Tien_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chuong_Duong_Bridge.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Chương Dương Bridge (Cầu Chương Dương, completed 1985) is a major river road bridge in Hanoi, Vietnam. It is 1,213 meters long and has 2 lanes in each direction for vehicles up to 80 tons."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Chương_Dương_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Phước_Khánh_2017.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phuoc Khanh Bridge (Vietnamese: Cầu Phước Khánh), is a bridge being constructed that aims to cross over the Long Tau river, a distributary of the Saigon River in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phước_Khánh_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hội_An,_Chùa_Cầu,_2020-01_CN-02.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Chùa Cầu is a footbridge with a temple atop, located in Hoi An, Quang Nam Province, Vietnam. It is also referred to as \"Cầu Nhật Bản\" (Japanese Bridge), \"Japanese Covered Bridge\", or \"Lai Viễn Kiều\"."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Chua_Cau_Temple_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Monivong2016-5.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Monivong Bridge (Khmer: ស្ពានព្រះមុនីវង្ស) is a heavily trafficked bridge in Phnom Penh, Cambodia. It bridges the Bassac River near the end of National Highway 2 to southern Cambodia and lies along the National Highway 1 which connects the city to eastern Cambodia and Vietnam. On the eastern shore lies the Chhba Ampeou Market."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Monivong_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Cao_Lãnh.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Cao Lãnh Bridge is a cable-stayed bridge over the Tiền River, a branch of the Mekong River at Cao Lãnh in Vietnam. The bridge is one of three components of the planned Central Mekong Delta Connectivity Project (CMDCP). The other two components are the Vàm Cống Bridge at Vàm Cống and the 4 lane expressway connecting the two bridges. The Cao Lanh Bridge was inaugurated on 27 May 2018."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cao_Lãnh_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/XaloBienhoa1.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Đồng Nai Bridge (Vietnamese: Cầu Đồng Nai) is an important road bridge towards the south of the city of Biên Hòa in Vietnam. It is located along National Highway 1A, and crosses the river, connecting Bình Dương Province to Đồng Nai Province. The bridge has a length of 453.9 metres, and has 4 lanes, with a curb for pedestrians sides 3.6 metres wide."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Đồng_Nai_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Vàm_Cống.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vàm Cống Bridge (Vietnamese: Cầu Vàm Cống), is a road bridge over the Hậu River(also known as Bassac), a distributary of the Mekong River, in the city of Long Xuyên in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vàm_Cống_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Larrys_Creek_Covered_Bridge.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "A covered bridge is a timber-truss bridge with a roof, decking, and siding, which in most covered bridges create an almost complete enclosure. The purpose of the covering is to protect the wooden structural members from the weather. Uncovered wooden bridges typically have a lifespan of only 20 years because of the effects of rain and sun, but a covered bridge could last over 100 years. Once common, only about 1 in 10 survived the 20th century. The relatively small number of surviving bridges is due to deliberate replacement, neglect, and the high cost of restoration."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Covered_bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Rạch_Miễu.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Rạch Miễu Bridge (Vietnamese: Cầu Rạch Miễu) is a cable-stayed bridge in the Mekong Delta, Vietnam. The bridge connects Tiền Giang Province (Mỹ Tho) with Bến Tre Province, over the Mekong. Construction began on 30 April 2002 and was completed on 19 January 2009, when the bridge was inaugurated. With a total length is 8331 m, including approach ramps, the main bridge is 2868 m long. Under the original schedule, the bridge would have been completed and opened for traffic in late 2007."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Rạch_Miễu_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Le_pont_suspendu_d'Halong.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Bãi Cháy Bridge (Vietnamese: Cầu Bãi Cháy) is a cable-stayed bridge on , connecting Hồng Gai with Bãi Cháy over the Cửa Lục Straits, separating Cửa Lục Bay with Hạ Long Bay, the territory of Quảng Ninh Province, Vietnam. Bãi Cháy Bridge was the first central-line cable-stayed bridge in Vietnam. At the time of its inauguration, it set a record as the longest central-line span of cable-stayed bridge."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bãi_Cháy_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hanoi_pont_Paul_Doumer.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Long Biên Bridge (Vietnamese: Cầu Long Biên) is a historic cantilever bridge across the Red River that connects two districts, Hoan Kiem and Long Bien of the city of Hanoi, Vietnam. It was originally called Paul Doumer Bridge."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Long_Biên_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cau_Song_Han_lit_up.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hàn River bridge (Vietnamese: Cầu Sông Hàn) is a cable-stayed swing bridge in Da Nang, Vietnam. Da Nang lies on the west side of the Hàn River and the beaches are to the east. In the middle of the night, traffic is stopped from crossing the Song Han Bridge and it swings on its axis to allow shipping traffic to pass along the river. The bridge is lit up brightly at night."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hàn_River_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_(6297673871).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Mỹ Thuận Bridge (Vietnamese: Cầu Mỹ Thuận) is a cable-stayed bridge over the Mekong river, connecting Cái Bè District of Tiền Giang Province with Vĩnh Long City of Vĩnh Long Province in Vietnam. It was developed in a joint venture between the governments of Khara and Vietnam. The bridge was the largest overseas assistance project undertaken by the Australian government costing A$91 million. It was built by Baulderstone and completed in 2000. See AusAID publication \"My Thuan Bridge: Monitoring Success\""@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mỹ_Thuận_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hanoivietnam_bridgesADA439924.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Sông Bé Bridge (Cầu Sông Bé in Vietnamese, also known as the Canal des Rapides Bridge) is a former rail bridge in northern Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Sông_Bé_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/1._Saigon_desember_2010_-_panoramio.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Saigon Bridge, known as Newport Bridge (Cầu Tân Cảng) before 1975, is a bridge crossing the Saigon River, connecting Bình Thạnh District and District 2, Ho Chi Minh City, on the Hanoi Highway. The bridge has four lanes for cars and two lanes for motorcycles and bicycles. It was the only bridge linking District 1 to the new Thu Thiem New Urban Area in District 2 until the Thủ Thiêm Bridge opened in 2008 and the Saigon River Tunnel opened in 2011. The bridge was one of the most vital gateways for vehicles traveling from northern and central Vietnam to the city, and therefore was a key point of contention during the Tet Offensive in 1968 and the Fall of Saigon in 1975. In 2013, a new parallel bridge, Saigon 2 Bridge, was opened to ease congestion on the bridge."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Saigon_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Kien_Bridge.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Kien Bridge (Vietnamese:Cầu Kiền) is a road bridge spanning the Cấm River in Haiphong, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Kien_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Ben_Thuy_Bridge_crossover_Lam_River,_Vietnam.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ben Thuy Bridge 1 (Vietnamese: Cầu Bến Thủy) is a road bridge in the North Central Coast of Vietnam and is part of the National Route 1A"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ben_Thuy_Bridge_1 ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Co_Chien_bridge.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Co Chien Bridge Vietnamese: Cầu Cổ Chiên) is a road bridge spanning the Cổ Chiên River in the Mekong Delta of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cổ_Chiên_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_thê_húc_Hà_nội_vietnam_-_panoramio.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thê Húc Bridge (Vietnamese: Cầu Thê Húc), is a footbridge over Hoàn Kiếm Lake within Hanoi, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:The_Huc_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chan_Cau_Saigon,_Dien_bien_phu,_phuong_22,_Binh_thanh,_tphcmvn_-_panoramio.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Saigon 2 Bridge (Cầu Sài Gòn 2) is a bridge crossing the Saigon River, connecting Bình Thạnh District and District 2, Ho Chi Minh City, on the Hanoi Highway. It is parallel to the Saigon Bridge, being 3 metres south of it and carrying traffic in the eastern direction. Congestion on the old Saigon Bridge required increased traffic capacity, with the new bridge doubling the number of lanes, carrying another 4 lanes plus a 2 lanes for motorbikes. The cost of the bridge was 1,259,000,000,000 Vietnamese đồng. Construction started in April 2012, and the bridge was opened for traffic in October 2013."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Saigon_2_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Rồng.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Dragon Bridge (Vietnamese: Cầu Rồng) is a bridge over the River Hàn at Da Nang, Vietnam. Construction of the bridge began on 19 July 2009 (the same day as the inauguration of the nearby Thuận Phước Bridge) when the former Prime Minister of Vietnam Nguyen Tan Dung and many high-ranking government officials attended the groundbreaking ceremony. Main span was completed on October 26, 2012. The bridge was opened to traffic on March 29, 2013, the 38th anniversary of the liberation of Da Nang City."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Dragon_Bridge_(Da_Nang)> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Trần_Thị_Lý_Bridge.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Nguyễn Văn Trỗi–Trần Thị Lý Bridge (Vietnamese: Cầu Nguyễn Văn Trỗi–Trần Thị Lý) is a bridge spanning the Hàn River in the city of Đà Nẵng, Vietnam. The new bridge replaces two older bridges named after Nguyễn Văn Trỗi and Trần Thị Lý."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Trần_Thị_Lý_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Final_Operations_-_19_April-7_May_1945.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "A political demarcation line is a geopolitical border, often agreed upon as part of an armistice or ceasefire."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Demarcation_line ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Golden_Bridge_Da-Nang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Golden Bridge (Vietnamese: Cầu Vàng) is a 150-metre-long (490 ft) pedestrian bridge in the Bà Nà Hills resort, near Da Nang, Vietnam. It is designed to connect the cable car station with the gardens (avoiding a steep incline) and to provide a scenic overlook and tourist attraction. The bridge loops nearly back around to itself, and has two giant hands, constructed of fibreglass and wire mesh, designed to appear like stone hands that support the structure."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Golden_Bridge_(Vietnam)> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/ThuậnPhước.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Thuận Phước Bridge (Vietnamese: Cầu Thuận Phước) is a suspension bridge that crosses the lower Han River at Da Nang, Vietnam. The four-lane, three-span, bridge is 1,850 meters long and 18 meters wide, and has a main span of 405 meters. Its two major pillars are 80m in height. It is the longest suspension bridge in Vietnam, with total investment of nearly 1 trillion dong. The bridge was built with an estimated cost of VND 650 billion (about 42 million US dollars). Consulting firms from China, Cuba and Canada provided assistance."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thuận_Phước_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cau-can-tho-tuonglamphotos.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cần Thơ Bridge (Vietnamese: Cầu Cần Thơ), is a cable-stayed bridge over the Hậu (Bassac) River, the largest distributary of the Mekong River, in the city of Cần Thơ in southern Vietnam. The bridge is 2.75 kilometres long (1.68 miles). It has a 6-lane carriageway measuring 23 metres (76 feet) in width, with 4 lanes for traffic and two lanes for bicycles and motorbikes. It has a clearance of 39 metres (128 feet), which allows large ships to pass underneath it. The bridge was inaugurated on April 24, 2010."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cần_Thơ_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cauphumy17052009007.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thủ Thiêm Bridge is a 6-lane bridge in Ho Chi Minh City, the largest city of Vietnam, opened in 2008. The bridge links District 2 with Bình Thạnh District, near downtown District 1. This bridge is an important link between existing downtown of Ho Chi Minh City with Thu Thiem New Urban Area. The cost estimate for construction of the bridge was US$60 million, implemented by a consortium of Vietnamese contractors. The progress was delayed due to delay in land compensation – a big problem in project management faced by many investors in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thủ_Thiêm_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phu_My_Bruecke2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Phú Mỹ Bridge (Vietnamese: Cầu Phú Mỹ) is a cable-stayed road bridge over the Saigon River in Ho Chi Minh City, Vietnam. The bridge was constructed from March 2007 to September 2009 by a consortium consisting of Baulderstone, Bilfinger Berger, Freyssinet (cable stays and stressing), and the Vietnamese company CC620 (concrete, formwork, etc.) and was designed by the French consultant Arcadis (design of the main bridge) and (design of the approaches). The project manager for the project was AECOM."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phú_Mỹ_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Pá_Uôn,_Sơn_La_Province.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Pa Uon Bridge (Vietnamese: Cầu Pá Uôn) is a road bridge spanning the Black River in the Son La Province of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Pa_Uon_Bridge ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .
